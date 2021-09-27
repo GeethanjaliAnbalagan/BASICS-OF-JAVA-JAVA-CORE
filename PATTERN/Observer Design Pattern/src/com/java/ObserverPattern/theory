@@ -1,0 +1,10 @@
+Behavioral Design Patterns
+
+Observer Pattern
+An Observer Pattern says that "just define a one-to-one dependency so that when one object changes state, all its dependents are notified and updated automatically".
+
+The observer pattern is also known as Dependents or Publish-Subscribe.
+
+Benefits:
+It describes the coupling between the objects and the observer.
+It provides the support for broadcast-type communication.
